@@ -1,0 +1,1 @@
+Public installer downloads for Building Regs Generator. Source is private; this repo holds only built installers so the app can auto-update.
